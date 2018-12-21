@@ -1,0 +1,39 @@
+# Theme
+remote_theme: 'epidrome/cover-card'
+
+# Title and tag line
+title: 'Neova Health'
+description: 'open sorcery in nhs land'
+
+# Images
+avatar: 'avatar.jpg'
+background: 'background.jpg'
+favicon: 'favicon.ico'
+
+# Online profiles
+# dribbble: ''
+# facebook: ''
+twitter: 'neovahealth'
+linkedin: 'neova-health'
+# instagram: ''
+# pinterest: ''
+youtube: 'UCUF5szYQ8UI-TuYXLMOd3RA'
+github-user: 'neovahealth'
+#gitlab-user: ''
+#codepen: ''
+#steam: ''
+#soundcloud: ''
+#lastfm: ''
+#stack-overflow: ''
+#reddit: ''
+#medium:  ''
+#tumblr: ''
+# weibo: ''
+# vk: ''
+# blog_url: ''
+email: 'neovahealth@gmail.com'
+# messenger: ''
+
+# Advanced settings
+plugins:
+  - jekyll-remote-theme
